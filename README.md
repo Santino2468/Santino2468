@@ -6,7 +6,7 @@ Here's a quick summary of a few of my public projects and contributions (so far 
 -
 I've been experimenting with React to build dynamic, user-friendly web applications.
 
-https://github.com/Santino2468/Reading-List
+https://github.com/Santino2468/Learning-React
 
 📖 My Reading List
 -
